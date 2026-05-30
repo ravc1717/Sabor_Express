@@ -30,9 +30,9 @@ public class DataLoader {
 
             repo.save(new Platillo(
                     null,
-                    "Panqueques Especiales",
+                    "Pancakes Especiales",
                     "Panqueques con miel y frutas frescas",
-                    6.50,
+                    7.50,
                     "desayuno",
                     "desayuno2.jpg"
             ));
